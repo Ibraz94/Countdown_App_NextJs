@@ -1,6 +1,6 @@
 import Countdown from "@/components/count-down";
 
-export default function () {
+export default function HomePage() {
 return (
   <div>
     <Countdown />
